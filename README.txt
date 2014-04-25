@@ -1,3 +1,5 @@
+These are some optional flags you can use when running the executable:
+
 -v	verbose: print extensive message describing the events occurring while the simulation is 
 	running
 
