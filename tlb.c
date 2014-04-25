@@ -9,10 +9,6 @@
 #define FALSE 0
 
 
-/* This is some of the code that I wrote. You may use any of this code
-   you like, but you certainly don't have to.
-*/
-
 
 /* I defined the TLB as an array of entries,
    each containing the following:
